@@ -1,10 +1,10 @@
-# RANDOM-FIRE
+# META
 
 👇👇COMMAND👇👇
 
 ```
 
-rm -rf RANDOM-FIRE
+rm -rf META
 
 git clone https://github.com/MR-ZIHAD/META
 
